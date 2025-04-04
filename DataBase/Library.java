@@ -1,3 +1,8 @@
+package DataBase;
+
+import model.Book;
+import model.Student;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -7,7 +12,7 @@ public class Library {
     List<Student> students;
     List<Book> books;
 
-    Library(){
+    public Library(){
         books = new ArrayList<>();
         students = new ArrayList<>();
         borrowed= new HashMap<>();

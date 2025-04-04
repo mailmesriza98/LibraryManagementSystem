@@ -1,3 +1,5 @@
+package model;
+
 public class Book {
     String book_name;
     String author;
@@ -21,3 +23,4 @@ public class Book {
         return quantity;
     }
 }
+

@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-LLD for Library Management System
+LLD for DataBase.Library Management System
